@@ -1,0 +1,49 @@
+{
+    "name": "sweetheart",
+    "version": "3.0.0",
+    "description": "A simple Facebook Messenger Bot remade by Ali Koja",
+    "main": "sweetheart.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "ALi Jutt",
+    "dependencies": {
+        "axios": "",
+        "bluebird": "",
+        "body-parser": "",
+        "caesar-salad": "",
+        "canvas": "",
+        "chalk": "",
+        "cheerio": "",
+        "child_process": "",
+        "crypto": "",
+        "eval": "",
+        "expensivev5": "^1.0.1",
+        "express": "^5.1.0",
+        "express-session": "^1.18.2",
+        "extract-zip": "",
+        "figlet": "",
+        "fs-extra": "",
+        "gradient-string": "",
+        "jimp": "",
+        "moment-timezone": "",
+        "node-cron": "",
+        "node-schedule": "^2.1.1",
+        "npmlog": "",
+        "path": "",
+        "pidusage": "^4.0.1",
+        "pookiev1": "^1.0.6",
+        "rankup-image": "^1.1.1",
+        "readline": "",
+        "request": "",
+        "ruhend-scraper": "",
+        "sequelize": "",
+        "sqlite3": "",
+        "string-similarity": "",
+        "totp-generator": "",
+        "youtube-search-api": "^2.0.1"
+    }
+}

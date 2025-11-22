@@ -1,0 +1,60 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "KOJA": "http://172.81.128.14:20541",
+    "HP": "AKP",
+    "OWNERNAME": "KOJA BABU",
+    "BIO": "This Bot is Remade By TAHAKHAN",
+    "language": "en",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "61571289612321",
+    "BOTMODE": "family","
+    "BOTNAME": "Sweetheart",
+    "PREFIX": "!",
+    "BOXADMIN": "1877657559629899",
+    "ADMINBOT": [
+        "100052951819398"
+    ],
+    "NDH": [
+        "61571289612321",
+        "100003707044564",
+        "61553674253472"
+    ],
+    "UNSENTVIP": [
+        "61571289612321"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 500
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 500
+    }
+}
